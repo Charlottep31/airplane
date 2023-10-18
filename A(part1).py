@@ -3,7 +3,6 @@
 Created on Tue Oct 17 12:25:08 2023
 
 @author: ewanb
-"""bdgbgdbgdfc
 
 # importing modules
 import numpy as np
